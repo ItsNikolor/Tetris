@@ -1,5 +1,5 @@
 # Tetris
 Tetris on haskell
 
-stack build
+stack build<br>
 stack exec tetris-exe
