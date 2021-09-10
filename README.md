@@ -1,4 +1,4 @@
-# tetris
+# Tetris written in Haskell
 
 stack build<br>
 stack install<br>
