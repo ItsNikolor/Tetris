@@ -1,6 +1,6 @@
 # Tetris written in Haskell
 
-##Installing
+## Installing
 Install stack https://docs.haskellstack.org/en/stable/README/<br>
 
 stack build<br>
